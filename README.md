@@ -1,2 +1,2 @@
-# byoc
-Build Your Own Compiler
+# byoc - Build Your Own Compiler
+This project serves as a valuable guide for individuals seeking to learn how to construct their own compiler for any programming language. Our aim is to provide a comprehensive overview of compiler architecture and to demonstrate how to build a compiler from the ground up or by utilizing tools such as flex and bison. Initially, this project focuses on constructing a shell script compiler using C. However, as our objective is to showcase multiple methods for building compilers, we intend to develop several other projects over time.
